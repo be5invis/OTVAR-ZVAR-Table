@@ -8,7 +8,7 @@ This document describes a proposed new Axes Variations (`ZVAR`) table that provi
 
 ### Optical versus Parametric
 
-Type Networks has purposed a set of parametric axes, however how should they interact with existing optical axes, is still unknown. In their current implementation, their example font is provided with both parametric and optical axes provided, however manipulating them simultaneously would result a broken result.
+Type Network has purposed a set of parametric axes, however how should they interact with existing optical axes, is still unknown. In their current implementation, their example font is provided with both parametric and optical axes provided, however manipulating them simultaneously would result a broken result.
 
 ### Layout-dependent axes remapping 
 
