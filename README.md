@@ -22,7 +22,9 @@ Therefore we need some mechanism that "swaps" the width and height axis for a ce
 
 ### Non-linear axes mapping
 
--- TBD --
+The "Formula, Type 1" described below can create non-linear transformations, because you can add multiple factors for one axis.
+
+(TODO: In future, this section should explain more about why this is a very important and useful functionality)
 
 ## Overview
 
